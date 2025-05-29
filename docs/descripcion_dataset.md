@@ -1,6 +1,6 @@
 ## Descripción del Dataset
 
-**Nombre de archivo**: "Tierra_Del_Fuego_Delitos", ubicado en `data/raw/Tierra_Del_Fuego_Delitos.xlsx` 
+**Nombre de archivo**: "Tierra_Del_Fuego_Delitos", ubicado en "data/raw/Tierra_Del_Fuego_Delitos.xlsx" 
 
 **Instancias**: 49 filas
 
@@ -11,7 +11,7 @@
 **Características (columnas)**: 126 columnas
 
 
-- La primera columna (`Delitos con intervención policial por mes, según tipo de delito`) describe el tipo de delito y mes/año, desde el año 2014 hasta el año 2023.
+- La primera columna "Delitos con intervención policial por mes, según tipo de delito" describe el tipo de delito y mes/año, desde el año 2014 hasta el año 2023.
 
 - Las columnas 2–126 corresponden a los conteos mensuales de cada delito (Enero 2014 hasta Agosto 2023).  
 
@@ -19,9 +19,9 @@
 
 **Tipos de datos**:  
 
-- Todas las columnas importan actualmente como `object` (texto), por el formato original de Excel.  
+- Todas las columnas importan actualmente como "object" (texto), por el formato original de Excel.  
 
-- En los próximos pasos conviene convertir las fechas y los conteos a `datetime` e `int`.  
+- En los próximos pasos conviene convertir las fechas y los conteos a "datetime" e "int".  
 
 ## Origen y fecha de adquisición
 
