@@ -4,7 +4,7 @@
 
 **Instancias**: 49 filas
 
-- Sólo 37 de estas 49 filas serán útiles.
+- Sólo 38 de estas 49 filas serán útiles.
 
 - Existen 12 filas irrelevantes que incluyen metadatos y espacios en blanco que no se tendrán en cuenta a futuro.
 
@@ -33,4 +33,4 @@
 
 ## Preprocesamiento realizado
 
-- Por el momento solo se identificaron las filas (37 de 49) y columnas útiles (117 de 126). No se modificó el archivo original. El dataset permanece crudo y listo para limpieza.
+- Por el momento solo se identificaron las filas (38 de 49) y columnas útiles (117 de 126). No se modificó el archivo original. El dataset permanece crudo y listo para limpieza.
