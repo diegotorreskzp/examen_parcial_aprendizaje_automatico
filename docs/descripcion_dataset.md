@@ -2,6 +2,8 @@
 
 **Nombre de archivo**: "Tierra_Del_Fuego_Delitos", ubicado en "data/raw/Tierra_Del_Fuego_Delitos.xlsx" 
 
+**Cantidad de datos**: 93.242
+
 **Instancias**: 49 filas
 
 - Sólo 38 de estas 49 filas serán útiles.
